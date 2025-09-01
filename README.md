@@ -50,4 +50,4 @@ This project is open source and free to use.
 
 ---
 
-[GitHub Repository](https://github.com/Prince26Patel/BlogPlatform.git)
+[GitHub Repository](https://github.com/jha-smriti/BlogPlatform.git)
