@@ -16,7 +16,7 @@ Bloggify is a full-stack blogging platform where users can create, edit, delete,
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Prince26Patel/BlogPlatform.git
+   git clone https://github.com/jha-smriti/BlogPlatform.git
    ```
 2. Navigate to the project directory  
    ```bash
